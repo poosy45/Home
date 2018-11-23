@@ -1,4 +1,4 @@
-var message = ["<a href=http://wp.pl>Technik Informatyk</a>", "Fototechnik", "Technik Obuwnik", "Technik przemyslu mody", "Technik technologii drewna", "Pracownik obslugi hotelowej", "Stolarz", "Tapicer", "Technik Organizacji reklamy"],
+var message = ["Nami", "Heimerdonger", "Mordekaiser", "Bard", "Pyke", "Kalista", "Shaco", "Illaoi", "Lee son"],
         pel = document.getElementById("text"),
         idx = 0,
     getNext = e => pel.innerText = e.target.id == "right" ?
