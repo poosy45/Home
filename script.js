@@ -1,4 +1,4 @@
-var message = ["Nami", "Shaco", "Mordekeiser", "Bard", "Heimerdonger", "Kalista", "Lee Sin", "Janna", "Everything"],
+var message = ["Kniaziu", "Kusiu", "Sztywny", "Kamien", "Gniewko", "Boczek", "Kornik", "Bochniak", "Dega"],
         pel = document.getElementById("text"),
         idx = 0,
     getNext = e => pel.innerText = e.target.id == "right" ?

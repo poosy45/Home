@@ -84,3 +84,12 @@ hr {
 .leftCorner {
     color: white;
 }
+.bottomRight {
+    position: absolute;
+    left: 100px;
+    bottom: 100px;
+}
+.bottomRight img {
+    height: 300px;
+    width: 300px;
+   
